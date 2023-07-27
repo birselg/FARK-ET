@@ -2,4 +2,4 @@ Technologies Used
 *BOOTSRAP
 *HTML5
 *CSS3
-farket.gif
+https://github.com/birselg/FARK-ET/blob/main/farket.gif
